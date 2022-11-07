@@ -19,8 +19,13 @@
 * Within this repository, you will find details of every blog I have posted that requires code from cj-mayes.com
 If you use the code to create a visual, I would love for you to tag me on Twitter @_CJMayes so I can celebrate it with you.
 
+<a href="https://github.com/CJ-Mayes/Website-Tutorials">View Content</a>
+
+
 ## ⚡ Communities
 * Check out the #SportsVizSunday repository where the team looks to share new datasets monthly. Get involved using the hashtag #SportsVizSunday on Twitter.
+
+<a href="https://github.com/CJ-Mayes/SportsVizSunday">View Datasets</a>
 
 ---
 
