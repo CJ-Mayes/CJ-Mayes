@@ -21,3 +21,11 @@ If you use the code to create a visual, I would love for you to tag me on Twitte
 
 ## ⚡ Communities
 * Check out the #SportsVizSunday repository where the team looks to share new datasets monthly. Get involved using the hashtag #SportsVizSunday on Twitter.
+
+---
+
+> [CJ-Mayes.com](https://www.CJ-Mayes.com) &nbsp;&middot;&nbsp;
+> GitHub [@CJ-Mayes](https://github.com/CJ-Mayes) &nbsp;&middot;&nbsp;
+> Twitter [@_CJMayes](https://twitter.com/_CJMayes)
+
+
