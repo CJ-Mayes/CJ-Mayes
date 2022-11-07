@@ -48,6 +48,6 @@ We frequently release new datasets for you to pull insights out of and share in 
 
 > [SportsVizSunday](https://www.sportsvizsunday.com/) &nbsp;&middot;&nbsp;
 > GitHub [ / SportsVizSunday](https://github.com/CJ-Mayes/SportsVizSunday) &nbsp;&middot;&nbsp;
-> Team [Team](https://www.sportsvizsunday.com/team)
+> Say Hello! [Team Page](https://www.sportsvizsunday.com/team)
 
 
