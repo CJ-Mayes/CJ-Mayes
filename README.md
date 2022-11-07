@@ -33,7 +33,8 @@ If you use the code to create a visual, I would love for you to tag me on Twitte
 </div>
 <br />
 
-* Check out the #SportsVizSunday repository where the team looks to share new datasets monthly. Get involved using the hashtag #SportsVizSunday on Twitter.
+* Sports Viz Sunday is a place for people to combine two of the greatest things in the world: Sports and data.
+We frequently release new datasets for you to pull insights out of and share in the form of data visualisation.
 
 <a href="https://github.com/CJ-Mayes/SportsVizSunday">View Datasets</a>
 
