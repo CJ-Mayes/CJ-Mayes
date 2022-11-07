@@ -9,17 +9,16 @@
 ## Welcome To CJ-Mayes.com
 
   <p align="center">
-    Within this repository, you will find details of every blog I have posted that requires code from cj-mayes.com
-    <br />
-    If you use the code to create a visual, I would love for you to tag me on Twitter @_CJMayes so I can celebrate it with you.
-    <br />
-    <br />
-    <br />
     <a href="https://cj-mayes.com/">View Site</a>
     ·
     <a href="https://twitter.com/_CJMayes">Tweet Me</a>
   </p>
 </div>
+
+## 👯 Website Content
+    Within this repository, you will find details of every blog I have posted that requires code from cj-mayes.com
+    <br />
+    If you use the code to create a visual, I would love for you to tag me on Twitter @_CJMayes so I can celebrate it with you.
 
 ## 👯 Communities
 * Check out the #SportsVizSunday repository where the team looks to share new datasets monthly. Get involved using the hashtag #SportsVizSunday on Twitter.
