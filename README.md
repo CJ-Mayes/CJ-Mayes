@@ -22,6 +22,12 @@ If you use the code to create a visual, I would love for you to tag me on Twitte
 
 <a href="https://github.com/CJ-Mayes/Website-Tutorials">View Content</a>
 
+---
+
+> [CJ-Mayes.com](https://www.CJ-Mayes.com) &nbsp;&middot;&nbsp;
+> GitHub [@CJ-Mayes](https://github.com/CJ-Mayes) &nbsp;&middot;&nbsp;
+> Twitter [@_CJMayes](https://twitter.com/_CJMayes)
+
 
 ## ⚡ Communities
 
@@ -40,8 +46,8 @@ We frequently release new datasets for you to pull insights out of and share in 
 
 ---
 
-> [CJ-Mayes.com](https://www.CJ-Mayes.com) &nbsp;&middot;&nbsp;
-> GitHub [@CJ-Mayes](https://github.com/CJ-Mayes) &nbsp;&middot;&nbsp;
-> Twitter [@_CJMayes](https://twitter.com/_CJMayes)
+> [SportsVizSunday](https://www.sportsvizsunday.com/) &nbsp;&middot;&nbsp;
+> GitHub [ / SportsVizSunday](https://github.com/CJ-Mayes/SportsVizSunday) &nbsp;&middot;&nbsp;
+> Team [@_CJMayes](https://www.sportsvizsunday.com/team)
 
 
