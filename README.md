@@ -3,7 +3,7 @@
 
   <div align="center">
     <a href="https://github.com/CJ-Mayes/Website-Tutorials/blob/main/Tools/CJ-Design-Dark.png">
-      <img src="https://github.com/CJ-Mayes/Website-Tutorials/blob/main/Tools/CJ-Design-Dark.png" alt="Logo" width="150" height="150">
+      <img src="https://github.com/CJ-Mayes/Website-Tutorials/blob/main/Tools/CJ-Design-Dark.png" alt="Logo" width="80" height="80">
 </a>
 </div>
 
