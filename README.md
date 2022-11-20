@@ -11,7 +11,7 @@
 
 * This page includes both my personal website tutorials as well as the teams SportsVizSunday data.
 
-> Visit The Site    [CJ-Mayes.com](https://cj-mayes.com) &nbsp;&middot;&nbsp;     Twitter [@CJ-Mayes](https://twitter.com/_CJMayes) &nbsp;&middot;&nbsp;
+> Visit The Site    [CJ-Mayes.com](https://cj-mayes.com) &nbsp;&middot;&nbsp;     Twitter [@_CJMayes](https://twitter.com/_CJMayes) &nbsp;&middot;&nbsp;
 
 ## ⚡ Website Content
 
