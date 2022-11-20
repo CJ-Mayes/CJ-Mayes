@@ -7,10 +7,8 @@
 </a>
 </div>
 
-<!-- About Me -->
-## Welcome To CJ-Mayes.com
-
   <p align="center">
+  ## ⚡ Welcome To CJ-Mayes.com
     <a href="https://cj-mayes.com/">View Site</a>
     ·
     <a href="https://twitter.com/_CJMayes">Tweet Me</a>
