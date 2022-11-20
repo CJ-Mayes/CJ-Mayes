@@ -9,7 +9,7 @@
 
 ## ⚡ Welcome To CJ-Mayes.com
 
-> Visit The Site [CJ-Mayes.com](https://cj-mayes.com) &nbsp;&middot;&nbsp;
+> Visit The Site    [CJ-Mayes.com](https://cj-mayes.com) &nbsp;&middot;&nbsp;   
 > Tweet Me [@CJ-Mayes](https://twitter.com/_CJMayes) &nbsp;&middot;&nbsp;
 
 ## ⚡ Website Content
