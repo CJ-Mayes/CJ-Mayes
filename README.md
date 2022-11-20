@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 
-![CJ-Design-Dark](https://user-images.githubusercontent.com/66642883/202920373-5030069b-aafc-4c51-88be-ab42325b8fd2.png)
+      <img src="![CJ-Design-Dark](https://user-images.githubusercontent.com/66642883/202920373-5030069b-aafc-4c51-88be-ab42325b8fd2.png)" alt="Logo" width="300" height="75">
 
 <!-- About Me -->
 ## Welcome To CJ-Mayes.com
