@@ -1,11 +1,10 @@
 <!-- PROJECT LOGO -->
 <br />
 
-  <p align="center">
+![CJ-Design-Dark](https://user-images.githubusercontent.com/66642883/202920498-5d96073b-0c70-4c05-b178-39e3183efd5b.png =250x250)
+
 <!-- About Me -->
 ## Welcome To CJ-Mayes.com
- </p>
-</div>
 
   <p align="center">
     <a href="https://cj-mayes.com/">View Site</a>
