@@ -9,12 +9,8 @@
 
 ## ⚡ Welcome To CJ-Mayes.com
 
-  <p align="center">
-    <a href="https://cj-mayes.com/">View Site</a>
-    ·
-    <a href="https://twitter.com/_CJMayes">Tweet Me</a>
-  </p>
-</div>
+> Visit The Site [CJ-Mayes.com](https://cj-mayes.com) &nbsp;&middot;&nbsp;
+> Tweet Me [@CJ-Mayes](https://twitter.com/_CJMayes) &nbsp;&middot;&nbsp;
 
 ## ⚡ Website Content
 
