@@ -2,6 +2,8 @@
 <br />
 
 ![CJ-Design-Dark](https://user-images.githubusercontent.com/66642883/202920498-5d96073b-0c70-4c05-b178-39e3183efd5b.png =250x250)
+![CJ-Design-Dark](https://user-images.githubusercontent.com/66642883/202920522-db28f39e-1b65-4e4a-971b-f10c70ddd986.png)
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://user-images.githubusercontent.com/66642883/202920498-5d96073b-0c70-4c05-b178-39e3183efd5b.png" width="200" height="200" />
 
 <!-- About Me -->
 ## Welcome To CJ-Mayes.com
