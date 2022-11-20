@@ -1,8 +1,11 @@
 <!-- PROJECT LOGO -->
 <br />
 
+  <p align="center">
 <!-- About Me -->
 ## Welcome To CJ-Mayes.com
+ </p>
+</div>
 
   <p align="center">
     <a href="https://cj-mayes.com/">View Site</a>
