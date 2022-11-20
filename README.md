@@ -1,11 +1,8 @@
 <!-- PROJECT LOGO -->
 <br />
 
-<div align="center">
-  <a href="https://yt3.ggpht.com/Je97xurXK1RkyzyM6LWnoOF5XKMLU2nBWg45pVOQ3J93PX9SoWbpacUQW8U6iRi2KDYB9Qrs=s88-c-k-c0x00ffffff-no-rj">
-    <img src=![CJ-Design-Dark](https://user-images.githubusercontent.com/66642883/202920333-380b3a09-906b-4fad-afd1-b8747c997d6f.png) alt="Logo" width="100" height="100">
-  </a>
-  
+![CJ-Design-Dark](https://user-images.githubusercontent.com/66642883/202920373-5030069b-aafc-4c51-88be-ab42325b8fd2.png)
+
 <!-- About Me -->
 ## Welcome To CJ-Mayes.com
 
