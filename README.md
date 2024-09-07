@@ -43,6 +43,13 @@ We frequently release new datasets for you to pull insights out of and share in 
 <a href="https://github.com/CJ-Mayes/SportsVizSunday">View Datasets</a>
 
 ---
+## ⚡ Youtube Content
+
+* The Youtube Page will contain both tutorials & SportsVizSunday content. If resources are required, there will be a folder with the date of upload followed by the title name.
+
+> Visit Youtube    [CJ-Mayes.com](https://www.youtube.com/@_CJMayes) &nbsp;&middot;&nbsp;  
+
+---
 
 > [SportsVizSunday.com](https://www.sportsvizsunday.com/) &nbsp;&middot;&nbsp;
 > GitHub [ / SportsVizSunday](https://github.com/CJ-Mayes/SportsVizSunday) &nbsp;&middot;&nbsp;
