@@ -42,18 +42,17 @@ If you use the code to create a visual, I would love for you to tag me on Twitte
 We frequently release new datasets for you to pull insights out of and share in the form of data visualisation.
 
 <a href="https://github.com/CJ-Mayes/SportsVizSunday">View Datasets</a>
+> [SportsVizSunday.com](https://www.sportsvizsunday.com/) &nbsp;&middot;&nbsp;
+> GitHub [ / SportsVizSunday](https://github.com/CJ-Mayes/SportsVizSunday) &nbsp;&middot;&nbsp;
+> Say Hello! [Team Page](https://www.sportsvizsunday.com/team)
 
 ---
 ## ⚡ Youtube Content
 
 * The Youtube Page will contain both tutorials & SportsVizSunday content. If resources are required, there will be a folder with the date of upload followed by the title name.
 
-> Visit Youtube    [CJ's Youtube](https://www.youtube.com/@_CJMayes) &nbsp;&middot;&nbsp;  
+> Visit Youtube    [Youtube](https://www.youtube.com/@_CJMayes) &nbsp;&middot;&nbsp;  
 
 ---
-
-> [SportsVizSunday.com](https://www.sportsvizsunday.com/) &nbsp;&middot;&nbsp;
-> GitHub [ / SportsVizSunday](https://github.com/CJ-Mayes/SportsVizSunday) &nbsp;&middot;&nbsp;
-> Say Hello! [Team Page](https://www.sportsvizsunday.com/team)
 
 
