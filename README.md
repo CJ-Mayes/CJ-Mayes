@@ -12,6 +12,7 @@
 * This page includes both my personal website tutorials as well as the teams SportsVizSunday data.
 
 > Visit The Site    [CJ-Mayes.com](https://cj-mayes.com) &nbsp;&middot;&nbsp;     Twitter [@_CJMayes](https://twitter.com/_CJMayes) &nbsp;&middot;&nbsp;
+> 
 
 ## ⚡ Website Content
 
@@ -47,7 +48,7 @@ We frequently release new datasets for you to pull insights out of and share in 
 
 * The Youtube Page will contain both tutorials & SportsVizSunday content. If resources are required, there will be a folder with the date of upload followed by the title name.
 
-> Visit Youtube    [CJ-Mayes.com](https://www.youtube.com/@_CJMayes) &nbsp;&middot;&nbsp;  
+> Visit Youtube    [CJ's Youtube](https://www.youtube.com/@_CJMayes) &nbsp;&middot;&nbsp;  
 
 ---
 
