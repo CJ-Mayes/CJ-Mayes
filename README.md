@@ -31,8 +31,8 @@ If you use the code to create a visual, I would love for you to tag me on X @_CJ
 
 * The Youtube Page will contain both tutorials & SportsVizSunday content. If resources are required, there will be a folder with the date of upload followed by the title name.
 
-> Visit Youtube    [Youtube](https://www.youtube.com/@_CJMayes) &nbsp;&middot;&nbsp; <br />
-> View Resources  [View Resources](https://github.com/CJ-Mayes/Youtube-Tutorials)
+> View Resources  [View Resources](https://github.com/CJ-Mayes/Youtube-Tutorials) &nbsp;&middot;&nbsp;
+> Visit Youtube    [Youtube](https://www.youtube.com/@_CJMayes) &nbsp;&middot;&nbsp;
 
 ---
 
