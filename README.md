@@ -27,6 +27,14 @@ If you use the code to create a visual, I would love for you to tag me on Twitte
 > GitHub [@CJ-Mayes](https://github.com/CJ-Mayes) &nbsp;&middot;&nbsp;
 > Twitter [@_CJMayes](https://twitter.com/_CJMayes)
 
+## ⚡ Youtube Content
+
+* The Youtube Page will contain both tutorials & SportsVizSunday content. If resources are required, there will be a folder with the date of upload followed by the title name.
+
+> Visit Youtube    [Youtube](https://www.youtube.com/@_CJMayes) &nbsp;&middot;&nbsp;
+> View Resources 
+
+---
 
 ## ⚡ Communities
 
@@ -45,13 +53,6 @@ We frequently release new datasets for you to pull insights out of and share in 
 > [SportsVizSunday.com](https://www.sportsvizsunday.com/) &nbsp;&middot;&nbsp;
 > GitHub [ / SportsVizSunday](https://github.com/CJ-Mayes/SportsVizSunday) &nbsp;&middot;&nbsp;
 > Say Hello! [Team Page](https://www.sportsvizsunday.com/team)
-
----
-## ⚡ Youtube Content
-
-* The Youtube Page will contain both tutorials & SportsVizSunday content. If resources are required, there will be a folder with the date of upload followed by the title name.
-
-> Visit Youtube    [Youtube](https://www.youtube.com/@_CJMayes) &nbsp;&middot;&nbsp;  
 
 ---
 
