@@ -25,7 +25,7 @@ If you use the code to create a visual, I would love for you to tag me on X @_CJ
 
 > [CJ-Mayes.com](https://www.CJ-Mayes.com) &nbsp;&middot;&nbsp;
 > GitHub [@CJ-Mayes](https://github.com/CJ-Mayes) &nbsp;&middot;&nbsp;
-> Twitter [@_CJMayes](https://twitter.com/_CJMayes)
+> X [@_CJMayes](https://twitter.com/_CJMayes)
 
 ## ⚡ Youtube Content
 
