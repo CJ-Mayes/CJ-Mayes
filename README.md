@@ -48,6 +48,7 @@ If you use the code to create a visual, I would love for you to tag me on X @_CJ
 
 * Sports Viz Sunday is a place for people to combine two of the greatest things in the world: Sports and data.
 We frequently release new datasets for you to pull insights out of and share in the form of data visualisation.
+* Want to contribute, partner up or get data added to the repo? Reach out to a member of the team on social media.
 
 <a href="https://github.com/CJ-Mayes/SportsVizSunday">View Datasets</a>
 > [SportsVizSunday.com](https://www.sportsvizsunday.com/) &nbsp;&middot;&nbsp;
