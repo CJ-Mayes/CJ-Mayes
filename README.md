@@ -11,13 +11,13 @@
 
 * This page includes both my personal website tutorials as well as the teams SportsVizSunday data.
 
-> Visit The Site    [CJ-Mayes.com](https://cj-mayes.com) &nbsp;&middot;&nbsp;     Twitter [@_CJMayes](https://twitter.com/_CJMayes) &nbsp;&middot;&nbsp;
+> Visit The Site    [CJ-Mayes.com](https://cj-mayes.com) &nbsp;&middot;&nbsp;     X [@_CJMayes](https://twitter.com/_CJMayes) &nbsp;&middot;&nbsp;
 > 
 
 ## ⚡ Website Content
 
 * Within this repository, you will find details of every blog I have posted that requires code from cj-mayes.com
-If you use the code to create a visual, I would love for you to tag me on Twitter @_CJMayes so I can celebrate it with you.
+If you use the code to create a visual, I would love for you to tag me on X @_CJMayes so I can celebrate it with you.
 
 <a href="https://github.com/CJ-Mayes/Website-Tutorials">View Content</a>
 
