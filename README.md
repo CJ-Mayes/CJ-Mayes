@@ -9,6 +9,8 @@
 
 ## ⚡ Welcome To CJ-Mayes 
 
+As of January 2026, I closed my personal website. Thanks!
+
 ## ⚡ Website Content
 
 * Within this repository, you will find details of every blog I have posted that requires code from cj-mayes.com
@@ -18,7 +20,6 @@ If you use the code to create a visual, I would love for you to tag me on X @_CJ
 
 ---
 
-> [CJ-Mayes.com](https://www.CJ-Mayes.com) &nbsp;&middot;&nbsp;
 > GitHub [@CJ-Mayes](https://github.com/CJ-Mayes) &nbsp;&middot;&nbsp;
 > X [@_CJMayes](https://twitter.com/_CJMayes)
 
@@ -32,6 +33,8 @@ If you use the code to create a visual, I would love for you to tag me on X @_CJ
 </a>
 </div>
 <br />
+
+As of January 2026, I no longer personally contribute to the SportsVizSunday group - however you can still access the materials below.
 
 * Sports Viz Sunday is a place for people to combine two of the greatest things in the world: Sports and data.
 We frequently release new datasets for you to pull insights out of and share in the form of data visualisation.
