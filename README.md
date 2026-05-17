@@ -13,6 +13,8 @@ As of January 2026, I closed my personal website. Thanks!
 
 https://cj-mayes.github.io/Blog-Archive/
 
+https://cj-mayes.github.io/CJ-CV/
+
 ## ⚡ Website Content
 
 * Within this repository, you will find details of every blog I have posted that requires code from cj-mayes.com
